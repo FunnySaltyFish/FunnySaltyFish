@@ -8,7 +8,7 @@
 ### <div align="center">我是 FunnySaltyFish，一名开发者&学生 👨‍💻 </div>  
   
 
-- 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref/page)  
+- 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github)  
   
 
 - 🌱 正在学习：机器学习  
@@ -19,41 +19,11 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
+## Recent Blogs
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2673613109214333&limit=5)](https://juejin.cn/user/2673613109214333/posts)
 
 
-### 最常用的  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-
-
-### 也能写的  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-</tr></table>  
-<br/>  
-  
-
-
-## Connect with me  
+## Contact with me  
 <div align="left">
 <a href="https://juejin.cn/user/2673613109214333" target="_blank">
 掘金
