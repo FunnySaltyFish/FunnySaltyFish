@@ -8,11 +8,7 @@
 ### <div align="center">我是 FunnySaltyFish，一名开发者&学生 👨‍💻 </div>  
   
 
-- 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github)  
-  
-
-- 🌱 正在学习：机器学习  
-  
+- 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github) | [Best LLM](https://llm.best) | [Compose Musume 镜像站](https://compose.funnysaltyfish.fun/)
 
 - ⚡ 追求进步  
   
