@@ -10,8 +10,12 @@
 
 - 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github) | [Best LLM](https://llm.best) | [Compose Musume 镜像站](https://compose.funnysaltyfish.fun/)
 
-- ⚡ 追求进步  
-  
+- ⚡ 追求进步
+
+<div align="center">
+<img src="https://github.com/FunnySaltyFish/FunnySaltyFish/assets/46063434/61710a97-6b05-4085-8276-72eba29b186f" align="center" style="width: 30%" />
+  <p>作品列表</p>
+</div>  
 
 <br/>  
 
