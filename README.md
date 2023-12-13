@@ -14,7 +14,7 @@
 
 <div align="center">
 <img src="https://github.com/FunnySaltyFish/FunnySaltyFish/assets/46063434/61710a97-6b05-4085-8276-72eba29b186f" align="center" style="width: 30%" />
-  <p>作品列表</p>
+  <p><a href="https://web.funnysaltyfish.fun/" target="_blank">作品列表</a></p>
 </div>  
 
 <br/>  
@@ -32,6 +32,10 @@
 <a href="https://blog.funnysaltyfish.fun/" target="_blank">
 Blog
 </a>  
+|
+<a href="mailto://funnysaltyfish@foxmail.com" target="_blank">
+funnysaltyfish@foxmail.com
+</a>  
 </div>  
 <br/>  
 
@@ -45,7 +49,7 @@ Blog
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=FunnySaltyFish&&style=flat-square" align="center" />
-<a href="https://www.buymeacoffee.com/FunnySaltyFish" target="_blank" style="display: inline-block;">
+<a href="https://web.funnysaltyfish.fun/" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
