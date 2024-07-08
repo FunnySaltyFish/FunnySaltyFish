@@ -5,10 +5,10 @@
 </div>  
   
 
-### <div align="center">我是 FunnySaltyFish，一名开发者&学生 👨‍💻 </div>  
+### <div align="center">我是 FunnySaltyFish，一名开发者 </div>  
   
 
-- 🔭 维护的项目： [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github) | [Best LLM](https://llm.best) | [Compose Musume 镜像站](https://compose.funnysaltyfish.fun/)
+- 🔭 维护的项目： [译站](https://www.funnysaltyfish.fun/trans/?source=github) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github) | [Compose Musume 镜像站](https://compose.funnysaltyfish.fun?source=github)
 
 - ⚡ 追求进步
 
