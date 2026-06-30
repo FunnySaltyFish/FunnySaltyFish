@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">我是 FunnySaltyFish，一名开发者 </div>  
+### <div align="center"> 我是 FunnySaltyFish，一名开发者 </div>  
   
 
 - 🔭 维护的项目： [译站](https://www.funnysaltyfish.fun/trans/?source=github) | [网页引用生成器](https://web.funnysaltyfish.fun/link2ref?source=github) | [神奇论文降重器](https://web.funnysaltyfish.fun/jc?source=github) | [Compose Musume 镜像站](https://compose.funnysaltyfish.fun?source=github)
@@ -18,10 +18,6 @@
 </div>  
 
 <br/>  
-
-## Recent Blogs
-[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2673613109214333&limit=5)](https://juejin.cn/user/2673613109214333/posts)
-
 
 ## Contact with me  
 <div align="left">
@@ -41,9 +37,9 @@ funnysaltyfish@foxmail.com
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FunnySaltyFish&show_icons=true&theme=prussian" align="center" /></div>
+<div align="center"><img src="https://github-stats-extended.vercel.app//api?username=FunnySaltyFish&show_icons=true&theme=prussian" align="center" /></div>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnySaltyFish&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FunnySaltyFish&layout=compact" align="center" /></div>
 
 <br/>  
 
